@@ -22,7 +22,7 @@
     "money": "^0.2.0",
     "mongoose": "^8.0.2",
     "multer": "^1.4.5-lts.1",
-    "nodemailer": "^6.9.7",
+    "nodemailer": "^6.9.9",
     "request": "^2.88.2",
     "xlsx-populate": "^1.21.0"
   },
